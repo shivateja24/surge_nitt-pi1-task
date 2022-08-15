@@ -1,0 +1,152 @@
+body{background-image: none;
+display: block;
+background-color: black;}
+.head{ display:flex;
+align-items:center;
+background-image: -webkit-linear-gradient(right,yellow,orange);
+}
+.title{display: flex;
+align-items:center;
+width: 550px;}
+.navigation{display: flex;
+margin-left: 250px;
+position: relative;
+;
+}
+
+.logo{width: 130px;
+height: 130px;}
+.surge{font-family:'Times New Roman', Times, serif;
+font-weight: 300;
+color: white;
+font-size: 50px;}
+.link{margin: 15px;
+    position: relative;
+    font-size: 30px;
+    color: red;}
+    .welcome{text-align: center;
+        font-weight:400px;
+        color: white;
+        font-size:40px;
+        background-image:-webkit-radial-gradient(yellow,orange,yellow,red);
+        
+    }
+    h2 .welcome{font-size: 40px;
+         font-style: oblique;
+        font-family: monospace;}
+.quote{margin-left: 5px; 
+    font-size: 40px;
+   font-style: oblique;
+  font-family: monospace;
+color: white;}
+    .slides{display: flex;
+    align-items: center;}
+    .quality{color: white;
+        font-size: 50px;
+        font-family: cursive;
+        margin-left: 200px;}
+    .slide{width: 500px;
+    height: 500px;
+    margin-left: 550px;
+    padding: 0 0 0 0;
+    }
+    .aboutus{font-family: cursive;
+    font-size: 50px;
+color: white;
+margin-left: 50px;
+}
+    .information{ border-radius: 50px;
+        background-color: blueviolet;
+        display: flex;
+        margin: 50px;
+    }
+    .about{width: 400px;
+    margin: 50px;
+    border-radius: 20px;
+background-color: yellow;
+border-style: solid
+;}
+.about h2{margin-left: 5px; 
+    font-size: 40px;
+   font-style: oblique;
+  font-family: monospace;}
+.about p{font-family:monospace;
+font-size: 30px;}
+ .purpose{border-style: solid;
+   background-color: purple;
+   width: 400px;
+margin: 50px;
+border-radius: 20px;}
+   .purpose h2{
+    font-size: 40px;
+         font-style: oblique;
+        font-family: monospace;}
+    .purpose p{font-family: monospace;
+    font-size: 30px;
+    ;}
+    .about h2{margin-left: 5px; 
+              font-size: 40px;
+             font-style: oblique;
+            font-family: monospace;}
+    .about p{font-family:monospace;
+    font-size: 30px}
+.goal{border-style: solid;
+    background-color: greenyellow;
+    width: 400px;
+    border-radius: 20px;
+margin: 50px;} 
+.goal h2{margin-left: 5px; 
+    font-size: 40px;
+   font-style: oblique;
+  font-family: monospace;}   
+.goal p {font-family:monospace;
+    font-size: 30px}
+    .events{display: block;
+    background-color: pink;}
+    .events h2{background-color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-style: oblique;}
+    .events li{font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    list-style-type:none;
+    font-size: 40px;}
+    .events p{font-size: 20px;
+    color:maroon}
+    .team-members h2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+color: white;
+text-align: center;
+font-weight: 400;}
+img{height: 250px;
+width: 250px;}
+.team-members{text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: green;
+font-size: 50px;}
+#members{display: flex;
+    flex-wrap: wrap;
+background-image: -webkit-linear-gradient(top,pink,purple);}
+.member{background-color: yellow;
+border-radius: 10px;
+height:350px;
+width: 250px;
+margin:40px;
+align-content: center;
+display:flex;
+flex-direction: column;
+align-items: center;}
+.memberName{font-family: 'Times New Roman', Times, serif;
+font-size: 20px ;}
+.member a{font-size: 20px;}
+.inductions{background-image: -webkit-linear-gradient(right,yellow,orange);}
+.inductions h2{font-size: 40px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+ .inductions p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+font-style:oblique}
+.thanks{text-align: center;
+font-size: 30px;
+color: orange;
+font-family: cursive;}
+ 
